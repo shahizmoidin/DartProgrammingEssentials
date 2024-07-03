@@ -25,7 +25,7 @@ Each section includes practical examples and exercises to test your understandin
 To get started with Dart Programming Essentials, clone this repository to your local machine using the following command:
 
 <pre>
-git clone https://github.com/yourusername/DartProgrammingEssentials.git
+git clone https://github.com/shahizmoidin/DartProgrammingEssentials.git
 </pre>
 
 Make sure you have Dart installed on your system. If not, you can download it from the <a href="https://dart.dev/get-dart">official Dart website</a>.
